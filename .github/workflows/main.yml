@@ -8,7 +8,7 @@ env:
   AZURE_RESOURCE_GROUP: actions-webapp-rg
   AZURE_APP_PLAN: actions-asp
   AZURE_LOCATION: '"Central US"'
-  AZURE_WEBAPP_NAME: node-062720779
+  AZURE_WEBAPP_NAME: node-062720770
 
 jobs:
   setup-up-azure-resources:
